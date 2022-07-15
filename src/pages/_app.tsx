@@ -2,6 +2,7 @@ import { AppProps } from "next/app";
 import Head from "next/head";
 import { MantineProvider } from "@mantine/core";
 import { QueryClient, QueryClientProvider } from "react-query";
+import "@uppy/core/dist/style.css";
 
 const queryClient = new QueryClient();
 
@@ -11,7 +12,7 @@ export default function App(props: AppProps) {
   return (
     <>
       <Head>
-        <title>Page title</title>
+        <title>Host Me Daddy</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
