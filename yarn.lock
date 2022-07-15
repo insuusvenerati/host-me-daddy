@@ -1291,7 +1291,7 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@mantine/core@4.2.12":
+"@mantine/core@^4.2.12":
   version "4.2.12"
   resolved "https://registry.yarnpkg.com/@mantine/core/-/core-4.2.12.tgz#7c07a352e7f2ea13f693ddd0d1b77d8898593e6c"
   integrity sha512-PZcVUvcSZiZmLR1moKBJFdFIh6a4C+TE2ao91kzTAlH5Qb8t/V3ONbfPk3swHoYr7OSLJQM8vZ7UD5sFDiq0/g==
@@ -1302,17 +1302,17 @@
     react-popper "^2.2.5"
     react-textarea-autosize "^8.3.2"
 
-"@mantine/form@4.2.12":
+"@mantine/form@^4.2.12":
   version "4.2.12"
   resolved "https://registry.yarnpkg.com/@mantine/form/-/form-4.2.12.tgz#c204fa17b0232027d9fb0eeb2a6b214708d9e014"
   integrity sha512-CnpkzZr7VVekN3gg/4fMG9DYEqDsOg1jJGGxFKZ7GjR4liwEOsL3FvC+Szi3OlI0ytfLFOg8zU8RCoEO758sQA==
 
-"@mantine/hooks@4.2.12":
+"@mantine/hooks@^4.2.12":
   version "4.2.12"
   resolved "https://registry.yarnpkg.com/@mantine/hooks/-/hooks-4.2.12.tgz#8dfbd23763959b721f5c5c784b3c412bb7c9823a"
   integrity sha512-/2GOsgv1tAUFBXOUV0YBZdDZHj3pHN82Sv1oI/hJMjfIT3ZkGeeiJO8Cw9cBcn76t6caP6Czi3hcuKhjz71O+A==
 
-"@mantine/next@4.2.12":
+"@mantine/next@^4.2.12":
   version "4.2.12"
   resolved "https://registry.yarnpkg.com/@mantine/next/-/next-4.2.12.tgz#02c3893803c098f492d1be5ae041dd2caf4071c4"
   integrity sha512-Wpjjp5lLy14gFV84EV3Yu4j1uLFugf8mSwQOJa+gD5IT9ENpOHEGykmo7SHS3EormFLPE9seDD28dACC2sNM5Q==
@@ -4392,10 +4392,10 @@ react-property@2.0.0:
   resolved "https://registry.yarnpkg.com/react-property/-/react-property-2.0.0.tgz#2156ba9d85fa4741faf1918b38efc1eae3c6a136"
   integrity sha512-kzmNjIgU32mO4mmH5+iUyrqlpFQhF8K2k7eZ4fdLSOPFrD1XgEuSBv9LDEgxRXTMBqMd8ppT0x6TIzqE5pdGdw==
 
-react-query@3.39.1:
-  version "3.39.1"
-  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.39.1.tgz#3876c0fdac7a3b5a84e195534e5fa8fbdd628847"
-  integrity sha512-qYKT1bavdDiQZbngWZyPotlBVzcBjDYEJg5RQLBa++5Ix5jjfbEYJmHSZRZD+USVHUSvl/ey9Hu+QfF1QAK80A==
+react-query@3.39.2:
+  version "3.39.2"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-3.39.2.tgz#9224140f0296f01e9664b78ed6e4f69a0cc9216f"
+  integrity sha512-F6hYDKyNgDQfQOuR1Rsp3VRzJnWHx6aRnnIZHMNGGgbL3SBgpZTDg8MQwmxOgpCAoqZJA+JSNCydF1xGJqKOCA==
   dependencies:
     "@babel/runtime" "^7.5.5"
     broadcast-channel "^3.4.1"
