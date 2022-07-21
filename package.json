@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.129.0",
+    "@aws-sdk/client-s3": "3.135.0",
     "@mantine/core": "^4.2.12",
     "@mantine/form": "^4.2.12",
     "@mantine/hooks": "^4.2.12",
